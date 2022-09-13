@@ -1,3 +1,5 @@
+# Semantic Tables and Media
+
 Make a semantic table using neccesary tags like thead etc.
 
 The table will have two columns, one for `Roll numbers` and another for `Names`.
